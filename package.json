@@ -1,0 +1,17 @@
+{
+  "name": "cryptowallet",
+  "version": "1.0.0",
+  "description": "dai tokens wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "solidity",
+    "wallet"
+  ],
+  "author": "ArturVargas",
+  "license": "MIT",
+  "dependencies": {}
+}
