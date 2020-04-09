@@ -1,0 +1,3 @@
+[submodule "client-react/client"]
+	path = client-react/client
+	url = https://github.com/ArturVargas/cryptoWallet-front
