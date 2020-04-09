@@ -13,5 +13,7 @@
   ],
   "author": "ArturVargas",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.0"
+  }
 }
